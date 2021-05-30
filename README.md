@@ -1,7 +1,7 @@
 # About me
-Laravelã®ãƒãƒªãƒ‡ãƒ¼ã‚·ãƒ§ãƒ³ã‚’è©¦ã™ã®ã«ã€ãƒ­ãƒ¼ã‚«ãƒ«ç’°å¢ƒã‚’æ§‹ç¯‰ã™ã‚‹ã®ãŒã‚ã‚“ã©ãã•ã‹ã£ãŸã®ã§ã€Webã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã¨ã—ã¦ä½œã£ã¦ã¿ã‚ˆã†ã‹ãªã¨æ€ã£ã¦ã‚„ã£ã¦ã„ã¾ã™
+Laravel‚ÌƒoƒŠƒf[ƒVƒ‡ƒ“‚ğ‚·‚Ì‚ÉAƒ[ƒJƒ‹ŠÂ‹«‚ğ\’z‚·‚é‚Ì‚ª‚ß‚ñ‚Ç‚­‚³‚©‚Á‚½‚Ì‚ÅAWebƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚Æ‚µ‚Äì‚Á‚Ä‚İ‚æ‚¤‚©‚È‚Æv‚Á‚Ä‚â‚Á‚Ä‚¢‚Ü‚·
 
-# å‚è€ƒè³‡æ–™
-- [Laravelã®ãƒãƒªãƒ‡ãƒ¼ã‚·ãƒ§ãƒ³ã®å…¬å¼ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ](https://readouble.com/laravel/8.x/ja/validation.html)
-- [Vue.js + Laravelã§ã‚·ãƒ³ãƒ—ãƒ«ãªSPAæ§‹ç¯‰ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«](https://qiita.com/minato-naka/items/2d2def4d66ec88dc3ca2)
-  - Vue.jsÃ—Laravelã®ãƒãƒ¥ãƒ¼ãƒˆãƒªã‚¢ãƒ«ã¨ã—ã¦å‚ç…§ã—ã¾ã—ãŸ
+# Ql‘—¿
+- [Laravel‚ÌƒoƒŠƒf[ƒVƒ‡ƒ“‚ÌŒö®ƒhƒLƒ…ƒƒ“ƒg](https://readouble.com/laravel/8.x/ja/validation.html)
+- [Vue.js + Laravel‚ÅƒVƒ“ƒvƒ‹‚ÈSPA\’zƒ`ƒ…[ƒgƒŠƒAƒ‹](https://qiita.com/minato-naka/items/2d2def4d66ec88dc3ca2)
+  - Vue.js~Laravel‚Ìƒ`ƒ…[ƒgƒŠƒAƒ‹‚Æ‚µ‚ÄQÆ‚µ‚Ü‚µ‚½
